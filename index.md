@@ -5,7 +5,7 @@ layout: default
 # Welcome
 
 My name is Kaan Berke UĞURLAR and this is my personal homepage. I am glad you've visited!
-I am currently studying Software Engineering and working in Amani AI as AI Developer.
+I am currently studying Software Engineering.
 
 # Contact me
 **You can always reach me by one of these**
