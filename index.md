@@ -15,7 +15,7 @@ I am currently studying Software Engineering.
 [![Instagram](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/kaanberke/)
 [![Instagram](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://www.github.com/kaanberke/)
 [![Mail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:kaanberkeugurlar@gmail.com?subject=[Hello]%20Source:%20Website)
-<a href="./assets/pdf/Kaan_Berke_UĞURLAR_CV.pdf" target="_blank">
+<a href="./assets/pdf/CV.pdf" target="_blank">
     <img src="https://static.thenounproject.com/png/216710-200.png" alt="CV" style="width:85px;"/> 
 </a>
 
