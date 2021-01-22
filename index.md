@@ -7,8 +7,6 @@ layout: default
 My name is Kaan Berke UĞURLAR and this is my personal homepage. I am glad you've visited!
 I am currently studying Software Engineering.
 
-# CV
-
 # Contact me
 **You can always reach me by one of these**
 
